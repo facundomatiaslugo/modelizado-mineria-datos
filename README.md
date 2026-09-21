@@ -15,3 +15,4 @@ Construcción paso a paso del pipeline de datos.
 - Virtualenv en .venv
 - JupyterLab
 - PostgreSQL (Docker)
+
