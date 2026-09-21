@@ -22,5 +22,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-
-
+# Archivos temporales de nano/vim
+*.swp
+*.swo
+*~
